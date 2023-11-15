@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718777817073",
+    "firebase_url": "https://bd-chatvideo-bed0d-default-rtdb.firebaseio.com",
+    "project_id": "bd-chatvideo-bed0d",
+    "storage_bucket": "bd-chatvideo-bed0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718777817073:android:fc8ff51dfa72fc24451650",
+        "android_client_info": {
+          "package_name": "com.alialtunoglu.bdchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718777817073-lvleetmj2ha7iko0q2te8g0sr9np1b8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alialtunoglu.bdchat",
+            "certificate_hash": "28e87345ebe2e4542ce11bcfdd119cea57dba6dc"
+          }
+        },
+        {
+          "client_id": "718777817073-9a7qrhln9knketgob9rva25v3rcf053t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqaQDN6wwFKxJPgMbXv5_5fVGVuSR_4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718777817073-9a7qrhln9knketgob9rva25v3rcf053t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
